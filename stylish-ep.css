@@ -1,0 +1,225 @@
+.time-logs-table-bl { background: #333 }
+body { background: #000}
+.root_table { background: #222;}
+.tab_systemlists .ajax__tab_body {    background-color: #333; }
+.timeentry_container_details {
+    background: #333;
+    color: #fff
+}
+
+.menu-placeholder { width: 100%; margin: 0 }
+.menu-placeholder .menu-outer { box-shadow: none; border-radius: 0; padding: 0 }
+.menu-placeholder,
+.menu-placeholder .menu {
+    background: #215A7F;
+}
+
+.menu-item-active .menu-item-link-inner, .menu-item-active:hover .menu-item-link-inner {
+    background: #1180C7;
+}
+
+.logo-placeholder {
+    float: right;
+    margin: 10px 20px 0 0!important;
+}
+
+.menu-placeholder .menu-inner {
+    background: none;
+    padding-right: 4px;
+}
+
+.menu-placeholder .menu { height: 40px }
+
+.quickpanel.menu-item-dropdown-list-open > .menu-item-link-wrapper, .menu-placeholder .quickpanel {
+    background: none;
+}
+
+.menu-item-link .menu-item-link-inner, .menu-item-link .menu-item-link-outer {
+    display: inline-block;
+    height: 40px;
+}
+
+.menu-placeholder .menu-outer {
+    margin-right: 210px;
+    background: none;
+}
+
+.timelogs_filter {
+    background: #222;
+    border: 1px solid #111;
+}
+.grid_timelogs .main_table tr.title th {
+    background: #222;
+    border: solid 1px #111;
+}
+
+.grid_timelogs .main_table td {
+    border: solid 1px #111;
+}
+
+.grid_timelogs .on {
+    background-color: #222;
+}
+
+.grid_timelogs .main_table tr.title td {
+    border: solid 2px #222;
+}
+
+.RadComboBox .rcbInputCell .rcbInput {
+    background: #000;
+}
+
+.RadComboBox.RadComboBox_Metro > table, div.chzn-container a.chzn-single, .t-widget.t-combobox.t-header.select.text_box, .RadUpload_Metro .ruFakeInput {
+    background: none;
+    background-color: #111;
+    height: 25px;
+    border-radius: 1px;
+    box-shadow: 0 1px 2px rgba(0,0,0,.2) inset;
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.2) inset;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2) inset;
+    border-color: #b7b7b7 #b7b7b7 #222!important;
+    border-style: solid;
+    border-width: 0px !important;
+}
+
+.time_entry_hours, .time_entry_hours_overload {
+    background: #222;
+    border: 1px solid #111;
+}
+
+.text_box, .textfield, .rich_text_box, .ruFakeInput, .multiline_text, .dependency_container .dropdown, .descriptionField, .searchbox_watermarked, .searchbox, .text_date_box {
+    padding: 5px;
+    border-radius: 1px;
+    border-collapse: separate;
+    box-shadow: 0 1px 2px rgba(0,0,0,.2) inset;
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.2) inset;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2) inset;
+    border-color: #b7b7b7 #b7b7b7 #dfdfdf;
+    border-style: solid;
+    border-width: 0px;
+    background: #111;
+}
+
+.main_table > tbody > tr > td, .main_table > tbody > tr > th {
+    border: 0;
+}
+
+.tab_systemlists .ajax__tab_body {
+    border: 1px solid #222;
+}
+
+.tab_systemlists_large .ajax__tab_header .ajax__tab_active .ajax__tab_inner {
+    padding-left: 10px !important;
+    background: #111;
+}
+
+
+.tab_systemlists_large .ajax__tab_header .ajax__tab_active .ajax__tab_tab {
+    background: #111;
+}
+
+.tab_systemlists_large .ajax__tab_header .ajax__tab_active .ajax__tab_outer {
+    background: #111;
+}
+
+.tab_systemlists .ajax__tab_header, .tab_popup_content .ajax__tab_header {
+    font-family: tahoma;
+    font-size: 11px;
+    background: none;
+    overflow: hidden !important;
+}
+
+.tab_systemlists_large .ajax__tab_header strong {
+    border-bottom: 0;
+}
+
+.ajax__tab_tab {
+    color: #cecece;
+}
+
+html body .RadInput_Metro .riTextBox, html body .RadInputMgr_Metro {
+    border-color: #111;
+    background: #111;
+    color: #999;
+}
+
+#ctl00_Content_TimeLogTabContainer_TabTimeEntryBox_AddTimeLogControl_EntryFormView_EntrySummaryRadChart img { opacity: .5 }
+
+.RadComboBox_Metro .rcbHovered .rcbInputCell .rcbInput, .RadComboBox_Metro .rcbFocused .rcbInputCell .rcbInput { color: #999 }
+
+html body .RadInput_Metro .riTextBox, html body .RadInputMgr_Metro {
+    border-color: #111;
+    background: #222;
+    color: #999;
+    padding: 5px
+}
+
+.RadPicker .rcCalPopup, .RadPicker .rcTimePopup { margin-left: 10px; }
+
+.RadPicker_Metro a.rcCalPopup:hover, .RadPicker_Metro a.rcCalPopup:focus, .RadPicker_Metro a.rcCalPopup:active {
+    background-position: 0 -50px;
+}
+
+.tmtentr-bl_activitycomplete-el { display: none }
+#ctl00_Content_TimeLogTabContainer_TabTimeEntryBox_AddTimeLogControl_EntryFormView_TimeEntryTaskProgressTextBoxUpdatePanel { display: none }
+
+html body .RadInput_Metro .riTextBox, 
+html body .t-picker-wrap .t-input,
+#ctl00_Content_TimeLogTabContainer_TabTimeEntryBox_AddTimeLogControl_EntryFormView_dpTimeEntryDateFieldControl_dateInput_text  { color: #999; border-color: #111!important }
+div.chzn-container a.chzn-single { color: #999 }
+div.chzn-container div.chzn-drop {
+    background: #222;
+    border: 1px solid #111;
+    border-top: 1px solid #333;    
+}
+
+input, select, .control, .text_box, .popup_calendar input, .multiline_text {
+    font-family: arial,helvetica,sans-serif;
+    font-size: 12px;
+    color: #999;
+}
+
+.noBillableItem:hover td {
+    background: #444;
+}
+.row_selected > td {
+    background-color: #444;
+}
+.row_selected_on td {
+    background-color: #444;
+}
+
+.tab_systemlists_large .ajax__tab_header .ajax__tab_active .ajax__tab_tab strong {
+    display: inline;
+    border-bottom: none;
+    margin-left: 0;
+    font-size: 12px;
+    font-weight: normal;
+    color: #fff;
+    cursor: auto;
+}
+
+.main_table { border: 2px solid #111; font-size: 14px; }
+#ctl00_Content_TimeLogTabContainer_TabTimeEntryBox_AddTimeLogControl_EntryFormView_TimeLogsGrid tr td:first-child{ font-weight: bold }
+
+.main_table tbody tr.title th table tbody tr:first-child td:first-child { padding-top: 6px }
+.grid_timelogs .main_table td {
+    padding: 7px 6px;
+}
+
+.btn, .btn_save, .btn_delete, .btn_disabled {
+    background: #1180c7;
+    color: #fff!important;
+}
+
+.btn, .ruButton, .btn_save {
+    border-color: #111;
+}
+
+.quick-addtsk-link-el { display: none }
+
+.timeentry_container_details {
+    color: #999;
+}
+
+#ctl00_Content_TimeLogTabContainer_TabTimeEntryBox_AddTimeLogControl_EntryFormView_TimeEntryDescriptionTextBox { padding: 5px;}
