@@ -6,13 +6,16 @@ body { background: #000}
     background: #333;
     color: #fff
 }
-
 .menu-placeholder { width: 100%; margin: 0 }
 .menu-placeholder .menu-outer { box-shadow: none; border-radius: 0; padding: 0 }
 .menu-placeholder,
 .menu-placeholder .menu {
     background: #215A7F;
 }
+
+#ctl00_Content_TimeLogTabContainer_TabTimeEntryBox_AddTimeLogControl_EntryFormView_dpTimeEntryDateFieldControl_wrapper { width: 120px!important}
+
+
 
 .menu-item-active .menu-item-link-inner, .menu-item-active:hover .menu-item-link-inner {
     background: #1180C7;
@@ -21,6 +24,14 @@ body { background: #000}
 .logo-placeholder {
     float: right;
     margin: 10px 20px 0 0!important;
+}
+
+.noBillableItem {
+    color: #B98818;
+}
+
+.noBillableItem a:link, .noBillableItem a:visited {
+    color: #B98818;
 }
 
 .menu-placeholder .menu-inner {
@@ -151,10 +162,12 @@ html body .RadInput_Metro .riTextBox, html body .RadInputMgr_Metro {
     border-color: #111;
     background: #222;
     color: #999;
-    padding: 5px
+    padding: 7px
 }
 
-.RadPicker .rcCalPopup, .RadPicker .rcTimePopup { margin-left: 10px; }
+html body .RadInput_Metro .riTextBox, html body .RadInputMgr_Metro { font-size: 16px !important }
+
+.RadPicker .rcCalPopup, .RadPicker .rcTimePopup { margin-left: 14px; }
 
 .RadPicker_Metro a.rcCalPopup:hover, .RadPicker_Metro a.rcCalPopup:focus, .RadPicker_Metro a.rcCalPopup:active {
     background-position: 0 -50px;
