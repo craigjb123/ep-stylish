@@ -7,7 +7,6 @@ body { background: #000}
     color: #fff
 }
 
-
 /*  */
 
 .menu-placeholder { width: 100%; margin: 0 }
@@ -154,7 +153,6 @@ html body .RadInput_Metro .riTextBox, html body .RadInputMgr_Metro {
     border-color: #111;
     background: #222;
     color: #999;
-    padding: 5px
 }
 
 .RadPicker .rcCalPopup, .RadPicker .rcTimePopup { margin-left: 10px; }
